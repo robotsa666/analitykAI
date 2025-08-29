@@ -11,8 +11,8 @@ TENANT_ID = st.secrets.get("TENANT_ID", os.getenv("TENANT_ID", "00000000-0000-00
 if OPENAI_API_KEY and not os.getenv("OPENAI_API_KEY"):
     os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
-from app.ai import nl2sql, data2chart, data2insight
-from app.sql_guard import guard_sql, GuardError
+from ai import nl2sql, data2chart, data2insight
+from sql_guard import guard_sql, GuardError
 
 st.set_page_config(page_title="AI BI – demo", layout="wide")
 
