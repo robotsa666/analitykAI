@@ -1,0 +1,8 @@
+date,product_name,category,customer_name,region,type,quantity,amount
+2025-01-05,Laptop A,Elektronika,Firma X,Śląskie,revenue,10,50000
+2025-01-05,Laptop A,Elektronika,Firma X,Śląskie,cogs,10,40000
+2025-02-01,Laptop B,Elektronika,Firma Y,Mazowieckie,revenue,5,25000
+2025-02-01,Laptop B,Elektronika,Firma Y,Mazowieckie,cogs,5,20000
+2025-03-10,Laptop A,Elektronika,Firma X,Śląskie,revenue,8,40000
+2025-03-10,Laptop A,Elektronika,Firma X,Śląskie,cogs,8,32000
+2025-03-20,Artykuły biurowe,Wyposażenie,Firma Z,Małopolskie,opex,0,3000
