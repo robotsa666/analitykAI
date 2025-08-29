@@ -1,4 +1,1 @@
-{
-  "nl2sql_system": "system prompt",
-  "nl2sql_user_template": "template"
-}
+{"nl2sql_system": "sys", "nl2sql_user_template": "tmpl"}
