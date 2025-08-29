@@ -1,0 +1,1 @@
+def load_to_supabase(f,dsn,tenant): pass

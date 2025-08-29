@@ -1,0 +1,2 @@
+def guard_sql(sql):
+    return sql

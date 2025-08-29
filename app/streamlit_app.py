@@ -1,2 +1,2 @@
 import streamlit as st
-st.write('Hello AI BI App')
+st.title('AI BI Demo')

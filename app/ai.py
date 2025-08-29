@@ -1,0 +1,1 @@
+def nl2sql(q,t): return 'SELECT 1'

@@ -1,3 +1,2 @@
-# AI BI Streamlit + Supabase
-
+# AI BI Streamlit
 Instrukcja...

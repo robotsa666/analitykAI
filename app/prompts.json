@@ -1,8 +1,4 @@
 {
-  "nl2sql_system": "Jeste\u015b t\u0142umaczem pyta\u0144 biznesowych na SQL (PostgreSQL)...",
-  "nl2sql_user_template": "SPEC:\\nMETRYKI: {{metrics_csv}}...",
-  "data2chart_system": "Zwr\u00f3\u0107 TYLKO JSON specyfikacji Vega-Lite v5...",
-  "data2chart_user_template": "KOLUMNY: {{columns_json}}...",
-  "insight_system": "Jeste\u015b asystentem finansowym...",
-  "insight_user_template": "DANE: {{table_json}}\\nKONTEKST: {{context}}"
+  "nl2sql_system": "system prompt",
+  "nl2sql_user_template": "template"
 }
